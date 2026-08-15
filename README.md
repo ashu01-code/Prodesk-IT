@@ -8,7 +8,7 @@ Prodesk IT is a responsive Software Development company landing page designed to
 
 + Screenshot
 
-![Prodesk IT Website](screenshot.png)
+![Prodesk IT Website](Screenshot.png)
 
 += Features
 
