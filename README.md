@@ -2,11 +2,12 @@
 
 Prodesk IT is a responsive Software Development company landing page designed to showcase web development, SEO, and digital marketing services.
 
-+ Live Website
 
-[Visit Live Website](prodesk-it-rho.vercel.app)
+## Live Website
 
-+ Screenshot
+https://prodesk-it-abc123.vercel.app/
+
+## Screenshot
 
 ![Prodesk IT Website](Screenshot.png)
 
