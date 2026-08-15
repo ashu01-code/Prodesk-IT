@@ -4,7 +4,7 @@ Prodesk IT is a responsive Software Development company landing page designed to
 
 + Live Website
 
-[Visit Live Website](https://github.com/ashu01-code/Prodesk-IT.git)
+[Visit Live Website]( https://ashu01-code.github.io/Prodesk-IT/)
 
 + Screenshot
 
